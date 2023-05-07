@@ -1,4 +1,5 @@
-![fd](https://user-images.githubusercontent.com/49138951/236624358-b688fc07-862d-494a-97b5-47dce6f718d0.gif)
+![gy2](https://user-images.githubusercontent.com/49138951/236657210-6f3a02eb-d8fa-432d-bcf5-9a39c4e53000.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Gyanindra Yadav.</h1>
