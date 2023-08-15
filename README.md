@@ -4,21 +4,23 @@
 
 
 <h1 align="center">Hi 👋, I'm Gyanindra.</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A Frontend Developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igyanendrayadav&label=Profile%20views&color=0e75b6&style=flat" alt="igyanendrayadav" /> </p>
 
 # 💫 About Me:
 - 🔭 Our latest **WORK is** [FOODTRUCK.](https://github.com/iGyanendraYadav/FoodTruck)
 
-- 🌱 I’m currently learning **Docker & Kubernets.**
-
-- 👉 Visit My Portfolio 🌎 [https://www.gyanindra.com](https://www.gyanindra.com)
+- 🌱 I’m currently learning **Docker.**
 
 - 💬 Ask me about **Frontend Development with React Js, Next Js, Tailwind CSS, SASS etc.**
 
 - 📫 Send me mail at : **gyanindrayadav1@gmail.com**
 
 - 💻 I love to **design beautiful stuffs.**
+  
+- 👉 **Check** [My Portfolio.](https://www.gyanindra.com)
+
+- ⬇️ **Click Here to** [Download My Resume.](https://github.com/iGyanendraYadav/iGyanendraYadav/files/12343617/Gyan.pdf)
 
 
 
