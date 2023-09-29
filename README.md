@@ -20,7 +20,7 @@
   
 - 👉 **Check** [My Portfolio.](https://www.gyanindra.com)
 
-- ⬇️ **Click Here to** [Download My Resume.](https://github.com/iGyanendraYadav/iGyanendraYadav/files/12343617/Gyan.pdf)
+- ⬇️ **Click Here to** [Download My Resume.](https://github.com/iGyanendraYadav/iGyanendraYadav/files/12756256/Gyanindra.s.Resume.3.pdf)
 
 
 
